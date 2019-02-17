@@ -3,3 +3,6 @@
 *.png
 *.jpg
 intro-to-pytorch/Cat_Dog_data/*
+project-dog-classification/__MACOSX/*
+project-dog-classification/lfw/*
+project-dog-classification/dogImages/*
