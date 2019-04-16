@@ -6,3 +6,7 @@ intro-to-pytorch/Cat_Dog_data/*
 project-dog-classification/__MACOSX/*
 project-dog-classification/lfw/*
 project-dog-classification/dogImages/*
+cycle-gan/__pycache__/*
+cycle-gan/summer2winter-yosemite/*
+dcgan-svhn/data/*
+dcgan-svhn/train_samples.pkl
