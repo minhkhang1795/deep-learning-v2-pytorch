@@ -10,3 +10,4 @@ cycle-gan/__pycache__/*
 cycle-gan/summer2winter-yosemite/*
 dcgan-svhn/data/*
 dcgan-svhn/train_samples.pkl
+project-face-generation/processed_celeba_small/*
